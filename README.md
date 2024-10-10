@@ -5,3 +5,5 @@ Este é um sistema de gerenciamento de biblioteca desenvolvido como parte da Tri
 . Reimplementar as views utilizando class-based views.
 . Adicionar recursos de paginação de resultados, ordenação e busca de termos.
 . Criar um repositório público no GitHub para a submissão do exercício.
+
+Atividade desenvolvida por Keilla Maria Teixeira Coutinho
